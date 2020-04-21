@@ -1,0 +1,5 @@
+
+.fake
+.ionide
+node_modules
+dist

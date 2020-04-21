@@ -12,6 +12,7 @@
   "dependencies": {
     "bss": "^1.6.4",
     "mithril": "^2.0.4",
+    "package-lock.json": "^1.0.0",
     "umbrellajs": "^3.1.0"
   }
 }

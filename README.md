@@ -1,2 +1,2 @@
-# sieditor
-Rich Text Editor with Mithril
+#MITHRED
+Rich Text Editor in Mithril
